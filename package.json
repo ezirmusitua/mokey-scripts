@@ -8,6 +8,6 @@
   "license": "GPL-3.0",
   "devDependencies": {
     "browserify": "^14.4.0",
-    "eslint": "^4.4.0"
+    "eslint": "^4.18.2"
   }
 }
